@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "SY8120B")(type "KiCad")(uri "${KIPRJMOD}/kicad_api_libs/SY8120B.kicad_sym")(options "Added by KiCad IPC API")(descr ""))
+  (lib (name "MLT-9032")(type "KiCad")(uri "${KIPRJMOD}/kicad_api_libs/MLT-9032.kicad_sym")(options "Added by KiCad IPC API")(descr ""))
+  (lib (name "ICM-42688-P")(type "KiCad")(uri "${KIPRJMOD}/kicad_api_libs/ICM-42688-P.kicad_sym")(options "Added by KiCad IPC API")(descr ""))
+)
