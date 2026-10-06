@@ -32,3 +32,4 @@ You can directly use the provided Bill of Materials (BOM) and CPL/POS data for m
 1. Please install [KiCad EDA](https://www.kicad.org/) **version 9.0 or newer**.
 2. Double-click the `IMUMaster.kicad_pro` file to open the entire project, schematic, and PCB layout.
 3. Open `bom/ibom.html` in your web browser to preview the Interactive BOM, which clearly highlights the exact position of each component on the PCB.
+# IMU-ESPC3-Board
